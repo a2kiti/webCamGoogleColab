@@ -3,7 +3,7 @@ Use web camera in real-time on google colaboratory
 
 There are 2 version.
 
-  - use websocket
+  - use websocket (Ngrok)
  
   - use callback (simple and stable but low frame rate)
 
